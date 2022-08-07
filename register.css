@@ -52,7 +52,7 @@
 	padding: 20px 0px;
 }
 .inputForm input{
-	max-width: 390px;
+	width: 390px;
 	margin: 5px 0px;
 	padding: 5px 20px;
 	background-color: black;

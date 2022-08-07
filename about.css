@@ -1,0 +1,85 @@
+.header{
+	/*background-color: #2B3856;*/
+	background-color: #2C3539;
+	/*background-color: rgb(3, 59, 100);
+*/	color: white;
+	padding: 15px 0px;
+}
+
+#myWeb{
+	color: white;
+	padding: 0px 50px;
+}
+#same{
+	color: white;
+	padding: 10px 20px;
+	border-radius: 10px;
+	transition: 1s;
+
+}
+#same:hover{
+	background-color: darkcyan;
+	color: white;
+	transform: scale(1.3);
+}
+/*.nav-item{
+	margin: 0px 20px;
+	padding: 0px 20px;
+	border-radius: 10px;
+	color: white;
+}*/
+.nav-link{
+	color: white;
+	font-weight: bold;
+}
+
+
+
+
+
+/*about-section*/
+.myAboutSection{
+	 background-color: rgb(15, 69, 87);
+	 padding: 50px 0px;
+}
+.about-section{
+	padding: 10px 30px;
+	background-color: lightblue;
+	border-radius: 20px;
+}
+.img img{
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+	margin-top: 70px;
+	/*margin-left: 500px;*/
+	margin: 0px auto;
+
+}
+.img{
+	max-width: 50%;
+	margin: 0px auto;
+	text-align: center;
+
+}
+
+.Para p{
+	font-size: 20px;
+	font-weight: bold;
+	margin: 10px 30px;
+
+}
+.myFooterSection{
+	margin: 50px 0px;
+	background-color: black;
+	color: white;
+	padding: 20px 0px;
+	box-shadow: 10px 10px 10px gray;
+	border-radius: 10px;
+}
+.myColCard{
+	background-color: hotpink;
+	display: flex;
+	justify-content: center;
+	padding: 20px 20px; 
+}
